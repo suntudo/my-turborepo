@@ -33,6 +33,7 @@ module.exports = {
           },
         ],
         destination: "https://sunhouse.tech/downloads/:path*",
+        permanent: true,
       },
     ];
   },
