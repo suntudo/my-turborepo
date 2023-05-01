@@ -17,7 +17,7 @@ module.exports = {
   //     ],
   //   };
   // },
-  async redirects() {
+  redirects() {
     return [
       {
         source: "/home",
